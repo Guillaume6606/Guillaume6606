@@ -14,7 +14,7 @@
 - 📫 How to reach me: **guillaume.quinquet@hotmail.fr**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Guillaume6606&show_icons=true&locale=en" alt="Guillaume6606" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guillaume6606&" alt="Guillaume6606" /></p>
 
 <!--
 **Guillaume6606/Guillaume6606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
