@@ -2,8 +2,15 @@
 <h1 align="center">Hi there, I'm Guillaume 👋</h1>
 <h3 align="center"> <- Data Science | Software Development | Software Engineering -></h3>
 
-- 🔭 I’m currently working as a **Data Scientist @ Artefact**
-- 🌱 I’m currently learning
+- 🔭 I’m currently working as a:
+ * **Data Scientist @ Artefact**
+ 
+- 🌱 I’m currently learning:
+ * **Google Cloud Platform**, **Deep Reinforcement Learning**, 
+ 
+ - 🔭 I’m currently working on:
+* **Propensity Modelling**, **Customer Scoring**, **XGBoost**, **MLOPS**
+ 
 - 📫 How to reach me: **guillaume.quinquet@hotmail.fr**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Guillaume6606&show_icons=true&locale=en" alt="Guillaume6606" /></p>
