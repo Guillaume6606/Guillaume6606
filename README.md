@@ -3,13 +3,14 @@
 <h3 align="center"> <- Data Science | Software Development | Software Engineering -></h3>
 
 - 🔭 I’m currently working as a:
- * **Senior Data Scientist @ Artefact**
+ * **Lead Data Scientist @ Artefact**
  
 - 🌱 I’m currently learning:
  * **Google Cloud Platform**, **Deep Reinforcement Learning**, 
  
  - 🔭 I’m currently working on:
-* **Propensity Modelling**, **Rare Events Detection**, **XGBoost**, **MLOPS**
+* **Propensity Modelling**, **Rare Events Detection**, **MLOPS**
+* **GenAI**, obviously..
  
 - 📫 How to reach me: **guillaume.quinquet@hotmail.fr**
 
