@@ -6,7 +6,7 @@
  * **Lead Data Scientist @ Artefact**
  
 - 🌱 I’m currently learning:
- * **Google Cloud Platform**, **Deep Reinforcement Learning**, 
+ * **Agentic Systems**, **DSPy**,
  
  - 🔭 I’m currently working on:
 * **Propensity Modelling**, **Rare Events Detection**, **MLOPS**
