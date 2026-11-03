@@ -3,17 +3,18 @@
 <h3 align="center"> <- Data Science | Software Development | Software Engineering -></h3>
 
 - 🔭 I’m currently working as a:
- * **Lead Data Scientist @ Artefact**
+ * **Founder & CTO @ HangDesk**
+ * **ex Lead ML Engineer @ Artefact**
  
 - 🌱 I’m currently learning:
- * **Agentic Systems**, **DSPy**,
+ * **Agentic Swarms**, **DSPy**,
  
  - 🔭 I’m currently working on:
-* **Propensity Modelling**, **Rare Events Detection**, **MLOPS**
-* **GenAI**, obviously..
+* **Rare Events Detection**
+* **Intelligent Document Processing**
+* **Process Automation**
+* **MLOPS**
  
-- 📫 How to reach me: **guillaume.quinquet@hotmail.fr**
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Guillaume6606&show_icons=true&locale=en" alt="Guillaume6606" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guillaume6606&" alt="Guillaume6606" /></p>
 
